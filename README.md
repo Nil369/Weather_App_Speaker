@@ -14,7 +14,17 @@ This is a weather app made by using Python and Weather API
 <h3>4. Error Handling: </h3><p> The app incorporates robust error handling mechanisms to gracefully manage unexpected scenarios, ensuring a smooth user experience.</p>
 
 
-<hr><br><br>Overall, the Python-based Weather App with speech functionality combines the power of Python's libraries, APIs, and accessibility features to deliver a comprehensive and user-centric weather experience. Its intuitive interface, real-time data updates, and voice integration make it a valuable tool for users seeking accurate and easily accessible weather information.
+<hr>
+
+# Project Images
+![image](https://github.com/Nil369/Weather_App_Speaker/assets/148447931/0f4cc22e-e154-4789-ab50-de579eaa9762)
+
+
+<br><br>
+![image](https://github.com/Nil369/Weather_App_Speaker/assets/148447931/134e6d2b-e864-4960-87a7-91123f1a293d)
+
+
+<br><br>Overall, the Python-based Weather App with speech functionality combines the power of Python's libraries, APIs, and accessibility features to deliver a comprehensive and user-centric weather experience. Its intuitive interface, real-time data updates, and voice integration make it a valuable tool for users seeking accurate and easily accessible weather information.
 
 <hr>
 
